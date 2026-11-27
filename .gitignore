@@ -1,0 +1,5 @@
+.env
+sent_alerts.json
+__pycache__/
+*.pyc
+.vscode/
